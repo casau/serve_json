@@ -22,7 +22,7 @@
       "type": "pie",
       "result": [
         { "id": "bubblefish", "label": "Bubblefish" , "value": 1 },
-        { "id": "trumpetfish", "label": "TrumpetFish", value": 2 },
+        { "id": "trumpetfish", "label": "TrumpetFish", "value": 2 },
         { "id": "woldffish", "label": "Wolffish", "value": 1 },
         { "id": "clownfish", "label": "Clownfish", "value": 5 },
         { "id": "triggerfish", "label": "Triggerfish", "value": 1 }
