@@ -20,7 +20,7 @@
     {
       "name": "Species of fishes",
       "type": "pie",
-      "result": [
+      "series": [
         { "id": "bubblefish", "label": "Bubblefish" , "value": 3 },
         { "id": "trumpetfish", "label": "TrumpetFish", "value": 2 },
         { "id": "woldffish", "label": "Wolffish", "value": 1 },
