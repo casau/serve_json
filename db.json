@@ -25,7 +25,7 @@
         { "id": "trumpetfish", "label": "TrumpetFish", "value": 2 },
         { "id": "woldffish", "label": "Wolffish", "value": 10 },
         { "id": "clownfish", "label": "Clownfish", "value": 5 },
-        { "id": "triggerfish", "label": "Triggerfish", "value": 2 }
+        { "id": "triggerfish", "label": "Triggerfish", "value": 5 }
       ]
     }
   ]
